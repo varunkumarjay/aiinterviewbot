@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+supabase
+pydantic
+sentence-transformers
+faiss-cpu
+pdfplumber
+python-docx
+numpy
+scipy
+transformers
+torch
